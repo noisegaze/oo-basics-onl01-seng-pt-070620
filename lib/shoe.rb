@@ -12,7 +12,18 @@ class Shoe
     puts "The shoe has been repaired" 
   end 
   
-  def condition(condition)
-    condition = new 
+  def condition=(condition)
+    @condition = new 
   end 
+  
+  def condition 
+    @condition
+  end
+  
+  
 end
+
+
+
+
+
