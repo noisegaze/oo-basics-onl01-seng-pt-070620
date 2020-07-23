@@ -5,9 +5,7 @@ class Shoe
     @brand 
   end 
   
-  def brand 
-    @brand 
-  end 
+  attr_reader :brand 
   
   
   
