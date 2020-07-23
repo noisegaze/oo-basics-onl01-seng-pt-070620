@@ -15,11 +15,4 @@ class Shoe
   def condition(condition)
     condition = new 
   end 
-    
-  
-  
-  
-  
-  
-  
 end
